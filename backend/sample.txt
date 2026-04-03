@@ -1,0 +1,4 @@
+ 1. Add API keys to .env file
+   2. Run backend: cd backend && python app.py
+   3. Run ML service: cd ml_service && python ml_api.py
+   4. Run frontend: cd frontend && npm start
