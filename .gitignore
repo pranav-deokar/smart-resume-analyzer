@@ -23,9 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Models
-models/*.pkl
-models/*.txt
+
 
 # Data
 data/*.csv
