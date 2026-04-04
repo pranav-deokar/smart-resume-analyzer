@@ -1,12 +1,12 @@
 # 🎯 Smart Resume Analyzer
 
 A production-ready AI-powered resume analysis system with ATS scoring, ML-based predictions, and intelligent feedback.
-LIVE DEMO:
-BACKEND:https://resume-backend-d6i6.onrender.com/health
-ML SERVICE:https://resume-ml-service-6mo8.onrender.com/health
-RUN BACKEND URL FIRST TO TRIGGER IT BECAUSE IT IS HOSTED ON FREE TIER PLATFORM 
+##LIVE DEMO:
+- BACKEND:https://resume-backend-d6i6.onrender.com/health
+- ML SERVICE:https://resume-ml-service-6mo8.onrender.com/health
+- RUN BACKEND URL FIRST TO TRIGGER IT BECAUSE IT IS HOSTED ON FREE TIER PLATFORM 
 USE APPLICATION WHEN BACKEND RETURNS SOMETHING LIKE:: {"service":"backend","status":"healthy"}
-FRONTEND:https://smart-resume-analyzer-topaz.vercel.app
+- FRONTEND:https://smart-resume-analyzer-topaz.vercel.app
 
 ## ✨ Features
 
