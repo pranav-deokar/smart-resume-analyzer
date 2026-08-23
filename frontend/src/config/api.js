@@ -13,7 +13,9 @@ export const API_ENDPOINTS = {
   TEST: `${BACKEND_URL}/test`,
 };
 
-export default {
+const apiConfig = {
   BACKEND_URL,
   API_ENDPOINTS,
 };
+
+export default apiConfig;
